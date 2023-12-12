@@ -25,11 +25,10 @@
 ---
 <div align="left">
     <h3> My stats: </h3>
-        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-        <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" /></a>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&mode=weekly" alt="GitHub Streak" /></a>
+        <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api?username=MelisaYunis&show_icons=true&theme=tokyonight" alt="Melisa Yunis's GitHub stats" /></a>
+        <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=tokyonight" alt="Top Langs" /></a>
+
 </div>
 <!--
 **Melisayunis/MelisaYunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
