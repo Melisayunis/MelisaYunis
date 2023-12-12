@@ -17,8 +17,10 @@
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-plain.svg?plain=1" title="MySQL" alt="MySQL" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg?plain=1" title="Git" alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg?plain=1" title="GitHub" alt="GitHub" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/cucumber/cucumber-plain.svg?plain=1" title="Cucumber" alt="Cucumber" width="40" height="40"/>
 
-
+</div>
+</div>
         
 ---
 
