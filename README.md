@@ -23,7 +23,10 @@
 </div>
         
 ---
-
+<div align="left">
+    <h3> Languages and tools: </h3>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+</div>
 <!--
 **Melisayunis/MelisaYunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
