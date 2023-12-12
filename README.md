@@ -25,9 +25,14 @@
 ---
 <div align="left">
     <h3> My stats: </h3>
-        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&mode=weekly" alt="GitHub Streak" /></a>
-        <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api?username=MelisaYunis&show_icons=true&theme=tokyonight" alt="Melisa Yunis's GitHub stats" /></a>
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&mode=weekly" alt="GitHub Streak" /></a><br>
+        <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api?username=MelisaYunis&show_icons=true&theme=tokyonight" alt="Melisa Yunis's GitHub stats" /></a><br>
         <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=tokyonight" alt="Top Langs" /></a>
+         <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=onedark" alt="Top Langs" /></a>
+          <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=cobalt" alt="Top Langs" /></a>
+           <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=synthwave" alt="Top Langs" /></a>
+            <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=highcontrast" alt="Top Langs" /></a>
+            <a href="https://github-readme-stats.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYunis&layout=compact&theme=dracula" alt="Top Langs" /></a>
 
 </div>
 <!--
