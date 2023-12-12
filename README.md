@@ -24,8 +24,11 @@
         
 ---
 <div align="left">
-    <h3> Languages and tools: </h3>
+    <h3> My stats: </h3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelisaYunis&theme=synthwave&mode=weekly)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 </div>
 <!--
 **Melisayunis/MelisaYunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
