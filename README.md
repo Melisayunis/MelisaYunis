@@ -1,5 +1,16 @@
 ### Hi 👋, I'm Melisa
 
+---
+
+### About me
+
+- I work as a Java Backend Developer
+- I am passionate about learning
+- I’m currently learning Testing manual and automation
+- Contact me via [![Linkedin](https://www.linkedin.com/in/melisa-yunis/)] or <a href="mailto:yunismelisa@gmail.com">yunismelisa@gmail.com</a>
+
+---
+
 <!--
 **Melisayunis/MelisaYunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
