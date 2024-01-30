@@ -1,12 +1,12 @@
-### Hi 👋, I'm Melisa
+### Hi 👋, I'm Melisa, I’m a Java developer, specialized in manual and automated testing.
 
 ---
 
 ### About me
 
-- I work as a Java Backend Developer
-- I am passionate about learning
-- I’m currently learning Testing manual and automation
+- I am currently looking for a job as a tester.
+- I am passionate about constantly learning and being able to challenge myselfin implementing projects.
+- I’m currently learning Serenity
 - Contact me via ![Linkedin](https://www.linkedin.com/in/melisa-yunis/) or <a href="mailto:yunismelisa@gmail.com">yunismelisa@gmail.com</a>
 
 <div align="left">
