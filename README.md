@@ -1,12 +1,12 @@
-### Hi 👋, I'm Melisa, I’m a Java developer, specialized in manual and automated testing.
+### Hi 👋, I'm Melisa, I’m a Manual tester specializing in automation with Selenium.
 
 ---
 
 ### About me
 
-- I am currently looking for a job as a tester.
-- I am passionate about constantly learning and being able to challenge myselfin implementing projects.
-- I’m currently learning Serenity
+- I am currently looking for new challenges as a tester.
+- I am passionate about constantly learning and being able to grow professionally through team practice.
+- I am currently learning more about the integration of Selenium with TestNG, RestAssured and Cucumber.
 - Contact me via ![Linkedin](https://www.linkedin.com/in/melisa-yunis/) or <a href="mailto:yunismelisa@gmail.com">yunismelisa@gmail.com</a>
 
 <div align="left">
@@ -14,7 +14,8 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg?plain=1" title="Java" alt="Java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg?plain=1" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-plain.svg?plain=1" title="MySQL" alt="MySQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg?plain=1" title="Postman" alt="Postman" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg?plain=1" title="Selenium" alt="Selenium" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg?plain=1" title="Git" alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg?plain=1" title="GitHub" alt="GitHub" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/cucumber/cucumber-plain.svg?plain=1" title="Cucumber" alt="Cucumber" width="40" height="40"/>
