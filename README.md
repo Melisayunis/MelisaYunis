@@ -4,20 +4,23 @@
 
 ### About me
 
-- QA Automation Engineer with a strong focus on End-to-End testing.
-- Currently working with **Cypress**, **JavaScript**, and **TypeScript**.
-- I design and maintain **functional and E2E test suites** to validate both individual features and complete user flows.
-- I lead the E2E automation strategy within my team, defining best practices and improving test reliability and coverage.
-- Passionate about test quality, clean test architecture, and fast, reliable feedback in CI pipelines.
-- I am passionate about constantly learning and being able to grow professionally through team practice.
+- QA Engineer focused on **test automation, E2E testing, and software quality**.
+- Experienced in designing and maintaining **functional, E2E, regression, API, and integration test suites**.
+- Currently working with **Cypress, JavaScript, and TypeScript**, with additional experience in **Selenium, Java, and Playwright**.
+- Experienced in **test architecture, Page Object Model (POM), reusable test design, API validation, and CI/CD pipelines**.
+- Continuously learning and exploring **AI and AI agent testing** as emerging areas of QA.
+- Passionate about clean automation, reliable test suites, and continuous professional growth.
 - Contact me via ![Linkedin](https://www.linkedin.com/in/melisa-yunis/) or <a href="mailto:yunismelisa@gmail.com">yunismelisa@gmail.com</a>
 
 ### Tech stack
-- **Automation:** Cypress  
-- **Languages:** JavaScript, TypeScript  
-- **Testing types:** E2E, Functional testing  
-- **CI/CD:** Experience running automated tests in pipelines  
-- **Others:** Test design, test strategy, maintenance of scalable test suites
+
+- **Automation:** Cypress, Playwright, Selenium
+- **Languages:** JavaScript, TypeScript, Java
+- **API Testing:** Postman, REST Assured
+- **Testing:** E2E, Functional, Regression, Integration, Smoke, Exploratory, API, BDD
+- **Architecture:** Page Object Model (POM), reusable test design, test data management
+- **CI/CD:** GitHub Actions, Azure DevOps
+- **AI Testing:** AI agents and LLM-based application testing
 
 <div align="left">
     <h3> Languages and tools: </h3>
